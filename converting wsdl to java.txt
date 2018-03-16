@@ -18,4 +18,9 @@ https://stackoverflow.com/questions/3179229/generating-web-service-from-wsdl-fil
 java -classpath "C:\UMA\Java Code\WebService\SOAP\docs\axis-bin-1_4\axis-1_4\lib" org.apache.axis.wsdl.WSDL2Java --server-side --skeletonDeploy true imcashdl.wsdl
 
 ----------------------------------------------------------------------------
+https://stackoverflow.com/questions/30666936/generate-web-service-skeleton-server-side-artifacts-using-wsimport
+
+
+
+https://stackoverflow.com/questions/3179229/generating-web-service-from-wsdl-file
 
