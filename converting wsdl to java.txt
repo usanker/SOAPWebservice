@@ -1,0 +1,21 @@
+wsimport -keep -s src http://www.webservicex.net/geoipservice.asmx?WSDL
+
+wsimport -keep -s src 
+
+https://www.javatips.net/blog/java-wsimport-tool-example
+
+https://www.javatips.net/blog/cxf-web-service-tutorial
+
+https://www.javatips.net/blog/cxf-soap-without-spring
+
+------------------------------------------
+http://www.apache.org/dyn/closer.lua/cxf/3.2.2/apache-cxf-3.2.2.zip
+
+https://stackoverflow.com/questions/3179229/generating-web-service-from-wsdl-file
+
+>java org.apache.axis.wsdl.WSDL2Java --server-side --skeletonDeploy true imcashdl.wsdl
+
+java -classpath "C:\UMA\Java Code\WebService\SOAP\docs\axis-bin-1_4\axis-1_4\lib" org.apache.axis.wsdl.WSDL2Java --server-side --skeletonDeploy true imcashdl.wsdl
+
+----------------------------------------------------------------------------
+
